@@ -12,8 +12,8 @@ A news app developed in flutter for multiplatforms.
 Open CMD where you want to clone the project & run the following commands
 
 ```
-git clone https://github.com/mhmzdev/The_Holy_Quran_App.git
-cd The_Holy_Quran_App
+git clone https://github.com/SafuRaja7/News-App-Multi-Platform.git
+cd News-App-Multi-Platform
 flutter packages get
 flutter run
 ```
