@@ -17,6 +17,9 @@ cd News-App-Multi-Platform
 flutter packages get
 flutter run
 ```
+## 📱 Screen Shots
+
+<img src="https://user-images.githubusercontent.com/59058345/235139571-6e6fd07d-088f-44c1-9b7f-a45b37417f2e.png" width=180>
 
 ## 🔗 API Information
 
