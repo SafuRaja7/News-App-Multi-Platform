@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class AppUtils {
   static const List<String> categories = [
     'general',
