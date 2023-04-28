@@ -19,7 +19,7 @@ flutter run
 ```
 ## 📱 Screen Shots
 
-<img src="https://user-images.githubusercontent.com/59058345/235139571-6e6fd07d-088f-44c1-9b7f-a45b37417f2e.png" width=180>
+<img src="https://user-images.githubusercontent.com/59058345/235139571-6e6fd07d-088f-44c1-9b7f-a45b37417f2e.png" width=180> <img src="https://user-images.githubusercontent.com/59058345/235139604-b3dd98aa-998e-4c7b-8096-d5e7fe85cdc9.png" width=180> <img src="https://user-images.githubusercontent.com/59058345/235139612-8e134e66-7dff-4a84-b55c-e3efea205f04.png" width=180><img src="https://user-images.githubusercontent.com/59058345/235139616-3b44a94a-a016-45ae-a5bf-21a3ac7e795b.png" width=180>
 
 ## 🔗 API Information
 
