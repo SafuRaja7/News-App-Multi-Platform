@@ -17,3 +17,7 @@ cd News-App-Multi-Platform
 flutter packages get
 flutter run
 ```
+
+## 🔗 API Information
+
+API Used: https://newsapi.org/v2/
