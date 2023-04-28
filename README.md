@@ -1,16 +1,19 @@
-# news_app
+# News_App_MultiPlatform
 
-A new Flutter project.
+A news app developed in flutter for multiplatforms.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## 💻 Installation steps
 
-A few resources to get you started if this is your first Flutter project:
+- Updated to `Flutter 2.10.4` Now!
+- Dart SDK `2.15` with Sound Null Safety!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Open CMD where you want to clone the project & run the following commands
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/mhmzdev/The_Holy_Quran_App.git
+cd The_Holy_Quran_App
+flutter packages get
+flutter run
+```
